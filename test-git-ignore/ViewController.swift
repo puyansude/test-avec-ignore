@@ -4,7 +4,8 @@
 //
 //  Created by Alain on 15-10-03.
 //  Copyright (c) 2015 Production sur support. All rights reserved.
-//
+//  Que la vie est dure...
+
 
 import UIKit
 
